@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'BellGothicStd';
+  src: url('BellGothicStd-Bold.eot');
+  src: url('BellGothicStd-Bold.eot?#iefix') format('embedded-opentype'),
+    url('BellGothicStd-Bold.woff') format('woff'),
+    url('BellGothicStd-Bold.ttf')  format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'BellGothicStdBlack';
+	src: url('BellGothicStd-Black.eot');
+	src: url('BellGothicStd-Black.eot?#iefix') format('embedded-opentype'),
+		url('BellGothicStd-Black.woff') format('woff'),
+		url('BellGothicStd-Black.ttf')  format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
